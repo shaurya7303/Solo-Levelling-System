@@ -1,6 +1,11 @@
 # Solo Leveling System
 
+
+<img width="860" height="486" alt="wp13812155" src="https://github.com/user-attachments/assets/256f9bdd-022b-4644-9138-50e173645559" />
+
 A complete, local-first RPG productivity system inspired by *Solo Leveling*. The system transforms your real-life tasks into quests, tracking your progression through levels, stats, and achievements, all while an AI "Dungeon Master" provides narrative feedback and suggestions.
+
+<img width="899" height="500" alt="solo-leveling-lord-big-smile-f3jx1bbid7x1gq1u (1)" src="https://github.com/user-attachments/assets/59f05f97-b3ee-4932-831b-77edef685cd4" />
 
 ## Features
 
