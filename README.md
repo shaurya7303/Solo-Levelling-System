@@ -90,3 +90,6 @@ The application will automatically initialize the database, create your default 
 ## License
 
 This project is open-source and available for personal use. Arise!
+
+https://github.com/user-attachments/assets/64bb4123-e4c2-42c9-9d07-5ab4a2a9e702
+
