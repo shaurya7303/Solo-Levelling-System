@@ -30,7 +30,7 @@ A complete, local-first RPG productivity system inspired by *Solo Leveling*. The
 ### 2. Setup the Repository
 Clone the repository and navigate into the project directory:
 ```bash
-git clone https://github.com/yourusername/solo-leveling-system.git
+git clone https://github.com/shaurya7303/Solo-Levelling-System)
 cd solo-leveling-system
 ```
 
